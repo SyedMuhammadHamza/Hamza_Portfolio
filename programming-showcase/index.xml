@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Programming Showcase on Syed Muhammad Hamza</title>
+    <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/</link>
+    <description>Recent content in Programming Showcase on Syed Muhammad Hamza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle competitions</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/3-kaggle-competitions/</link>
+      <pubDate>Sat, 20 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/3-kaggle-competitions/</guid>
+      <description>Here&amp;rsquo;s the code and description for my Kaggle competitions I participated in so far
+Competition 1: Natural Language Processing with Disaster Competition Description Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+in this competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.</description>
+    </item>
+    
+    <item>
+      <title>Supervised Machine Learning Algorithms Implementation From Scratch</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/1-supervised-machine-learning-algorithms-implementation-from-scratch/</link>
+      <pubDate>Mon, 25 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/1-supervised-machine-learning-algorithms-implementation-from-scratch/</guid>
+      <description>Following are the implementations of supervised machine learning algorithms from scratch without using any Machine learning libraries
+Ridge Polynomail Regression with Learning Curve Analysis GitHub Link Implementation of Ridge Polynomial Regression with Learning Curve Analysis from scratch using python. The implementation includes the implementation of the MSE(Mean Square Error) Cost Function, Numerical Optimization Algorithm Gradient descent, Bias-variance learning curve analysis, and model selection
+      One-vs-all Classification Using Logistic Regression GitHub Link Implementation of One-vs-all Classification Using Logistic Regression from scratch in python.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning Algorithms Implementation From Scratch</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/2-unsupervised-machine-learning-algorithms-implementation-from-scratch/</link>
+      <pubDate>Mon, 20 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/2-unsupervised-machine-learning-algorithms-implementation-from-scratch/</guid>
+      <description>Following are the implementations of Unsupervised machine learning algorithms from scratch without using any Machine learning libraries
+K-Means clustering GitHub Link Implementation of K-means clustering from scratch using python. The implementation includes the two steps process
+ assigning all samples to one of the closest centroids move centroids to the middle of those assigned samples.  However, the implementation is a little tricky for that I&amp;rsquo;ve implemented the following methods</description>
+    </item>
+    
+  </channel>
+</rss>

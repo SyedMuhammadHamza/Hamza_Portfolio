@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Syed Muhammad Hamza</title>
+    <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/</link>
+    <description>Recent content in Data Science Portfolio on Syed Muhammad Hamza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 20 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kaggle competitions</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/3-kaggle-competitions/</link>
+      <pubDate>Sat, 20 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/3-kaggle-competitions/</guid>
+      <description>Here&amp;rsquo;s the code and description for my Kaggle competitions I participated in so far
+Competition 1: Natural Language Processing with Disaster Competition Description Twitter has become an important communication channel in times of emergency. The ubiquitousness of smartphones enables people to announce an emergency they’re observing in real-time. Because of this, more agencies are interested in programmatically monitoring Twitter (i.e. disaster relief organizations and news agencies).
+in this competition, you’re challenged to build a machine learning model that predicts which Tweets are about real disasters and which one’s aren’t.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</guid>
+      <description>Github link Web Application   web application screenshot   Overview During my sophomore year of bachelors, I stumbled upon a book titled &amp;ldquo;Gifts differing: understanding personality type&amp;rdquo; by Isabel Briggs Myers and Peter B. Myers through a friend I met on Reddit &amp;ldquo;This book distinguishes four categories of personality styles and shows how these qualities determine the way you perceive the world and come to conclusions about what you&amp;rsquo;ve seen&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Supervised Machine Learning Algorithms Implementation From Scratch</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/1-supervised-machine-learning-algorithms-implementation-from-scratch/</link>
+      <pubDate>Mon, 25 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/1-supervised-machine-learning-algorithms-implementation-from-scratch/</guid>
+      <description>Following are the implementations of supervised machine learning algorithms from scratch without using any Machine learning libraries
+Ridge Polynomail Regression with Learning Curve Analysis GitHub Link Implementation of Ridge Polynomial Regression with Learning Curve Analysis from scratch using python. The implementation includes the implementation of the MSE(Mean Square Error) Cost Function, Numerical Optimization Algorithm Gradient descent, Bias-variance learning curve analysis, and model selection
+      One-vs-all Classification Using Logistic Regression GitHub Link Implementation of One-vs-all Classification Using Logistic Regression from scratch in python.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Politician-Face-Classifier</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 22 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</guid>
+      <description>GitHub link Web Application   Web Scraping  Collected images from google through web-scraping using Selenium with ChromeDriver Code Link  Data Cleaning  Performed data cleaning through face detection using OpenCV pre-trained feature-based Haar cascade classifiers to discard images from the dataset without face and two eyes visible  Feature engineering  Performed feature engineering through extraction by wavelet transformation of images using PyWavelets and then vertically stacking raw and wavelet transformed images  Model Building trained machine learning models such as Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Handwritten Digit Recognizer</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</guid>
+      <description>Handwritten Digit Recognizer Github link Web Application   Neural Network from scratch in Python to recognize handwritten digit achieved 98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved 99.25% test accuracy deployed model to production
+Dataset   Deep Neural network (DNN) Neural Network Implementation from scratch using Python
+Model representation Implemented Neural network has 3 layers an input layer,a hidden layer and an output layer.   Feedforward and Regularized Cross entropy cost function Implementation of DNN includes code for Feedforward and Regularized Cross entropy cost function   Backpropagation Implementation of DNN includes code for Backpropagation     Model Performance  DNN: 98.</description>
+    </item>
+    
+    <item>
+      <title>Unsupervised Machine Learning Algorithms Implementation From Scratch</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/2-unsupervised-machine-learning-algorithms-implementation-from-scratch/</link>
+      <pubDate>Mon, 20 Jan 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/2-unsupervised-machine-learning-algorithms-implementation-from-scratch/</guid>
+      <description>Following are the implementations of Unsupervised machine learning algorithms from scratch without using any Machine learning libraries
+K-Means clustering GitHub Link Implementation of K-means clustering from scratch using python. The implementation includes the two steps process
+ assigning all samples to one of the closest centroids move centroids to the middle of those assigned samples.  However, the implementation is a little tricky for that I&amp;rsquo;ve implemented the following methods</description>
+    </item>
+    
+    <item>
+      <title>AndroidCipherApplication</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</guid>
+      <description>Github Link An Android-based application build using the MVC model That allows users to Encipher(encrypt) and Decipher( decrypt) text using using following Ciphers
+ Shift Cipher Vigenere Cipher Substitution Cipher Playfair Cipher      </description>
+    </item>
+    
+    <item>
+      <title>coming soon</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coming soon</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/contact/</guid>
+      <description>Contact me on these platforms.
+LinkedIn:	Linkedin.com/in/sm-hamza/ Medium:	Medium.com/@syedmuhammadhamza GitHub:	Github.com/SyedMuhammadHamza Email: syedmuhammadhamza.smh@gmail.com Copyright © Syed Muhammad Hamza 2021</description>
+    </item>
+    
+    <item>
+      <title>Medium: Probabilistic Justification for using specific Loss function in different types of Machine Learning Algorithms (Part 1)</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-1/</guid>
+      <description>Medium Link When I started with Machine Learning, one of the most troublesome thing that didn’t make much sense was the choice of the Loss function for different Machine learning algorithms, justifications for using the specific loss function for different kinds of ML algorithms were most of the time based on intuition rather any formal mathematical proof this blog discuss the Mathematical Justification for using a specific kind of loss function in different types of supervised Machine learning algorithms through Probability</description>
+    </item>
+    
+  </channel>
+</rss>

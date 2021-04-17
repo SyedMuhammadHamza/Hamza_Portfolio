@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Syed Muhammad Hamza</title>
+    <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/</link>
+    <description>Recent content in Blogs on Syed Muhammad Hamza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Medium: Probabilistic Justification for using specific Loss function in different types of Machine Learning Algorithms (Part 1)</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-1/</guid>
+      <description>Medium Link When I started with Machine Learning, one of the most troublesome thing that didn’t make much sense was the choice of the Loss function for different Machine learning algorithms, justifications for using the specific loss function for different kinds of ML algorithms were most of the time based on intuition rather any formal mathematical proof this blog discuss the Mathematical Justification for using a specific kind of loss function in different types of supervised Machine learning algorithms through Probability</description>
+    </item>
+    
+  </channel>
+</rss>

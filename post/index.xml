@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Syed Muhammad Hamza</title>
+    <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/</link>
+    <description>Recent content in Projects on Syed Muhammad Hamza</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</link>
+      <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</guid>
+      <description>Github link Web Application   web application screenshot   Overview During my sophomore year of bachelors, I stumbled upon a book titled &amp;ldquo;Gifts differing: understanding personality type&amp;rdquo; by Isabel Briggs Myers and Peter B. Myers through a friend I met on Reddit &amp;ldquo;This book distinguishes four categories of personality styles and shows how these qualities determine the way you perceive the world and come to conclusions about what you&amp;rsquo;ve seen&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Politician-Face-Classifier</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</link>
+      <pubDate>Fri, 22 Jan 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</guid>
+      <description>GitHub link Web Application   Web Scraping  Collected images from google through web-scraping using Selenium with ChromeDriver Code Link  Data Cleaning  Performed data cleaning through face detection using OpenCV pre-trained feature-based Haar cascade classifiers to discard images from the dataset without face and two eyes visible  Feature engineering  Performed feature engineering through extraction by wavelet transformation of images using PyWavelets and then vertically stacking raw and wavelet transformed images  Model Building trained machine learning models such as Logistic Regression, SVM(Support vector machine), and Ensembling bagging Random Forest</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Handwritten Digit Recognizer</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</link>
+      <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</guid>
+      <description>Handwritten Digit Recognizer Github link Web Application   Neural Network from scratch in Python to recognize handwritten digit achieved 98.45% test accuracy and using Keras CNN(Convolutional neural network) achieved 99.25% test accuracy deployed model to production
+Dataset   Deep Neural network (DNN) Neural Network Implementation from scratch using Python
+Model representation Implemented Neural network has 3 layers an input layer,a hidden layer and an output layer.   Feedforward and Regularized Cross entropy cost function Implementation of DNN includes code for Feedforward and Regularized Cross entropy cost function   Backpropagation Implementation of DNN includes code for Backpropagation     Model Performance  DNN: 98.</description>
+    </item>
+    
+    <item>
+      <title>AndroidCipherApplication</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</guid>
+      <description>Github Link An Android-based application build using the MVC model That allows users to Encipher(encrypt) and Decipher( decrypt) text using using following Ciphers
+ Shift Cipher Vigenere Cipher Substitution Cipher Playfair Cipher      </description>
+    </item>
+    
+    <item>
+      <title>coming soon</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>coming soon</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
+      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
