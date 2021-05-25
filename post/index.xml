@@ -8,7 +8,17 @@
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Project 1: Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
+      <title>Hybrid Recommendation System Web Application</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
+      <pubDate>Thu, 29 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
+      <description>Github link Deployed live application here   Overview The Regression-based Movie Recommender system that&amp;rsquo;s a hybrid of content-based and collaborative filtering Recommender system. Simply rate some movies and get immediate recommendations tailored for you
+Table of contents  Live Applicaiton Live Applicaiton Accompanying Medium articles Prerequisites Project Structure Dataset Roadmap Roadmap Step Notebooks About Hybrid Algorithm  Step 1. Collaborative filtering Step 2. Content-based filtering Step 3. Prediction   Usage Contributing Contact License References  Live Applicaiton  Deployed live application here  Accompanying Medium articles  Hybrid Recommendation System Web-Application Part 1: Exploratory Data Analysis with PostgreSQL  Prerequisites The following open source packages are used in this project:</description>
+    </item>
+    
+    <item>
+      <title>Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</link>
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
       
@@ -17,7 +27,7 @@
     </item>
     
     <item>
-      <title>Project 2: Politician-Face-Classifier</title>
+      <title>Politician-Face-Classifier Web Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</link>
       <pubDate>Fri, 22 Jan 2021 10:58:08 -0400</pubDate>
       
@@ -26,7 +36,7 @@
     </item>
     
     <item>
-      <title>Project 3: Consumer Finance Complaints Text classification with PostgreSQL</title>
+      <title> Consumer Finance Complaints Text classification with PostgreSQL</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</link>
       <pubDate>Thu, 24 Dec 2020 10:58:08 -0400</pubDate>
       
@@ -35,7 +45,7 @@
     </item>
     
     <item>
-      <title>Project 4: Handwritten Digit Recognizer</title>
+      <title>Handwritten Digit Recognizer</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</link>
       <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
       
@@ -46,7 +56,7 @@ Model representation Implemented Neural network has 3 layers an input layer,a hi
     </item>
     
     <item>
-      <title>AndroidCipherApplication</title>
+      <title>Android Cipher Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</link>
       <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
       
@@ -56,18 +66,9 @@ Model representation Implemented Neural network has 3 layers an input layer,a hi
     </item>
     
     <item>
-      <title>coming soon</title>
-      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
-      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
-      
-      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coming soon</title>
+      <title>Updating soon</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</link>
-      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</guid>
       <description></description>
