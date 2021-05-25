@@ -6,7 +6,17 @@
     <description>Recent content in Data Science Portfolio on Syed Muhammad Hamza</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 20 Feb 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 29 Apr 2021 10:58:08 -0400</lastBuildDate><atom:link href="https://syedmuhammadhamza.github.io/Hamza_Portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hybrid Recommendation System Web Application</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
+      <pubDate>Thu, 29 Apr 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
+      <description>Github link Deployed live application here   Overview The Regression-based Movie Recommender system that&amp;rsquo;s a hybrid of content-based and collaborative filtering Recommender system. Simply rate some movies and get immediate recommendations tailored for you
+Table of contents  Live Applicaiton Live Applicaiton Accompanying Medium articles Prerequisites Project Structure Dataset Roadmap Roadmap Step Notebooks About Hybrid Algorithm  Step 1. Collaborative filtering Step 2. Content-based filtering Step 3. Prediction   Usage Contributing Contact License References  Live Applicaiton  Deployed live application here  Accompanying Medium articles  Hybrid Recommendation System Web-Application Part 1: Exploratory Data Analysis with PostgreSQL  Prerequisites The following open source packages are used in this project:</description>
+    </item>
+    
     <item>
       <title>Kaggle competitions</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/programming-showcase/3-kaggle-competitions/</link>
@@ -19,7 +29,7 @@ in this competition, you’re challenged to build a machine learning model that 
     </item>
     
     <item>
-      <title>Project 1: Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
+      <title>Myers–Briggs Type Indicator (MBTI) classification Web Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-1/</link>
       <pubDate>Tue, 09 Feb 2021 10:58:08 -0400</pubDate>
       
@@ -39,7 +49,7 @@ Ridge Polynomail Regression with Learning Curve Analysis GitHub Link Implementat
     </item>
     
     <item>
-      <title>Project 2: Politician-Face-Classifier</title>
+      <title>Politician-Face-Classifier Web Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-2/</link>
       <pubDate>Fri, 22 Jan 2021 10:58:08 -0400</pubDate>
       
@@ -48,7 +58,7 @@ Ridge Polynomail Regression with Learning Curve Analysis GitHub Link Implementat
     </item>
     
     <item>
-      <title>Project 3: Consumer Finance Complaints Text classification with PostgreSQL</title>
+      <title> Consumer Finance Complaints Text classification with PostgreSQL</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-3/</link>
       <pubDate>Thu, 24 Dec 2020 10:58:08 -0400</pubDate>
       
@@ -57,7 +67,7 @@ Ridge Polynomail Regression with Learning Curve Analysis GitHub Link Implementat
     </item>
     
     <item>
-      <title>Project 4: Handwritten Digit Recognizer</title>
+      <title>Handwritten Digit Recognizer</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-4/</link>
       <pubDate>Sun, 20 Dec 2020 10:58:08 -0400</pubDate>
       
@@ -79,7 +89,7 @@ K-Means clustering GitHub Link Implementation of K-means clustering from scratch
     </item>
     
     <item>
-      <title>AndroidCipherApplication</title>
+      <title>Android Cipher Application</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-5/</link>
       <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
       
@@ -89,31 +99,22 @@ K-Means clustering GitHub Link Implementation of K-means clustering from scratch
     </item>
     
     <item>
-      <title>coming soon</title>
-      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</link>
-      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
-      
-      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-6/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>coming soon</title>
-      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</link>
-      <pubDate>Fri, 20 Dec 2019 10:58:08 -0400</pubDate>
-      
-      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Contact</title>
       <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/contact/</guid>
-      <description>Contact me on these platforms.
+      <description>Drop me a line if I can do anything for you.
 LinkedIn:	Linkedin.com/in/sm-hamza/ Medium:	Medium.com/@syedmuhammadhamza GitHub:	Github.com/SyedMuhammadHamza Email: syedmuhammadhamza.smh@gmail.com Copyright © Syed Muhammad Hamza 2021</description>
+    </item>
+    
+    <item>
+      <title>Medium: Hybrid Recommendation System Web-Application Part 1: Exploratory Data Analysis with PostgreSQL</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-2/</guid>
+      <description>Medium Link Over the last two decades, recommender systems have become State-of-the-Art Algorithms and can be regarded as success factors for companies such as Google, Amazon, and Netflix. The main objective of a recommender system is to produce relevant recommendations to a collection of users for items that might interest them. This article is a part end-to-end machine learning project series where I will build a web application for a Regression-based Movie Recommender system that is a hybrid of content-based and collaborative filtering algorithm from scratch.</description>
     </item>
     
     <item>
@@ -123,6 +124,15 @@ LinkedIn:	Linkedin.com/in/sm-hamza/ Medium:	Medium.com/@syedmuhammadhamza GitHub
       
       <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/blogs/blog-1/</guid>
       <description>Medium Link When I started with Machine Learning, one of the most troublesome thing that didn’t make much sense was the choice of the Loss function for different Machine learning algorithms, justifications for using the specific loss function for different kinds of ML algorithms were most of the time based on intuition rather any formal mathematical proof this blog discuss the Mathematical Justification for using a specific kind of loss function in different types of supervised Machine learning algorithms through Probability</description>
+    </item>
+    
+    <item>
+      <title>Updating soon</title>
+      <link>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://syedmuhammadhamza.github.io/Hamza_Portfolio/post/project-7/</guid>
+      <description></description>
     </item>
     
   </channel>
